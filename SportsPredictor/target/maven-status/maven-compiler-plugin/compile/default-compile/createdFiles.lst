@@ -1,0 +1,11 @@
+com\mycompany\sportspredictor\interfaces\IServicioNotificacion.class
+com\mycompany\sportspredictor\model\Usuario.class
+com\mycompany\sportspredictor\model\Administrador.class
+com\mycompany\sportspredictor\model\EventoDeportivo.class
+com\mycompany\sportspredictor\model\PremioFisico.class
+com\mycompany\sportspredictor\service\NotificacionEmailService.class
+com\mycompany\sportspredictor\SportsPredictor.class
+com\mycompany\sportspredictor\model\MarcadorExacto.class
+com\mycompany\sportspredictor\interfaces\ITipoPronostico.class
+com\mycompany\sportspredictor\model\Premio.class
+com\mycompany\sportspredictor\model\Pronostico.class
